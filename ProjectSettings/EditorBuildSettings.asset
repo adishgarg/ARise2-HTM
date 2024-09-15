@@ -14,6 +14,9 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/test.unity
     guid: a24dc42b9d715dc4a9ce2cdb98d5de87
+  - enabled: 1
+    path: Assets/Scenes/3d-dna.unity
+    guid: 91a9a39f5379f004e8284e1e6f90bdc3
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 47b088aa0e46f7943b4ea567270eb718, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 288b18f5a44a0a540a61967e7317bcbf, type: 2}
